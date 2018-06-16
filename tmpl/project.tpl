@@ -1,0 +1,15 @@
+<p>%title_project%</p>
+<p>%intro_text_project%</p>
+<p>%product%</p>
+<p>%competition%</p>
+<p>%technology%</p>
+<p>%instruments%</p>
+<p>%logistics%</p>
+<p>%resources%</p>
+<p>%counterparties%</p>
+<p>%finance%</p>
+<p>%user_name_project%</p>
+<p>%user_email_project%</p>
+<p>%user_phone_project%</p>
+<p>%date_project%</span> 
+</p>

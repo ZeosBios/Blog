@@ -1,0 +1,10 @@
+<p>%img%</p>
+<p>%title_advert%</p>
+<p>%intro_text_advert%</p>
+<p>%full_text_advert%</p>
+<p>%user_name_advert%</p>
+<p>%user_email_advert%</p>
+<p>%user_phone_advert%</p>
+<p>
+<span>%date_advert%</span> 
+</p>
